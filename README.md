@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Recording_2023-04-02_at_18_41_32__2___online-video-cutter_com__AdobeExpress](https://user-images.githubusercontent.com/88890682/229364866-ec2c522c-9ecb-45ea-8a4e-21e9b1798ce8.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
